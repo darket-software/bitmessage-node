@@ -6,6 +6,8 @@ bitmessage-node
 
 Bitmessage client for the API written in Node.js.
 
+This project was forked from RexMorgan/bitmessage-node to implement improvements, since that repo hasn't been updated in years.
+
 
 ## Install
 
@@ -83,4 +85,3 @@ If you plan on connecting to a remote Bitmessage server, you should *absolutely*
 
 
 The MIT License (MIT)
-
